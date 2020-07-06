@@ -1,0 +1,48 @@
+table {
+    width: 70vw;
+    position: center;
+    text-transform: uppercase;
+    font-size: 3vw;
+  }
+  
+  th {
+    height: 50px;
+  }
+
+  tr:hover {
+      background-color: #9b6262;
+    }
+
+    tr {
+        background-color: rgb(114, 129, 131);
+    }
+
+td {
+    text-align:center;
+}
+.gfg { 
+    border-collapse:separate; 
+    border-spacing:0 15px; 
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+  .edit_btn {
+    text-decoration: none;
+    padding: 2px 5px;
+    background: #2E8B57;
+    color: white;
+    border-radius: 3px;
+}
+
+.del_btn {
+    text-decoration: none;
+    padding: 2px 5px;
+    color: white;
+    border-radius: 3px;
+    background: #800000;
+}
+
